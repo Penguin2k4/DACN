@@ -2,7 +2,7 @@
 
 Thành phần Frontend nằm trong thư mục `app_trash/`, được tổ chức theo kiến trúc phân lớp:
 
-
+```text
 app_trash/
 ├── lib/                      # Mã nguồn chính (Dart)
 │   ├── models/               # Định nghĩa các kiểu dữ liệu (PredictionModel...)
