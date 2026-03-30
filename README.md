@@ -31,3 +31,4 @@ app/
 
 Mô hình dùng ngrok để triển khai server để app_trash tức là app mobile nhận các api từ server và trả ngược về
 Để dùng tải các file từ ml_model đưa vào app_trash các model đã training mới chạy được app_trash
+file ml_model: https://drive.google.com/file/d/1z5W6eg7Leei99wjLjTsoBhWk3Q91ZzEw/view?usp=sharing
