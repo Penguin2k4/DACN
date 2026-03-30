@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+starlette
+tensorflow
+keras
+tf_keras
+numpy
+h5py
+pillow
+firebase-admin
+google-auth
+python-dotenv
+watchfiles
+requests
